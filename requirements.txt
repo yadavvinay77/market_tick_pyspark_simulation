@@ -1,0 +1,6 @@
+pyspark
+confluent_kafka
+MetaTrader5
+findspark
+pandas
+pytest
